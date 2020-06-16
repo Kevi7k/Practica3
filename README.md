@@ -1,7 +1,4 @@
-# Practica3
-La practica #3
-# Practica1.
-
+# Practica#3
 
 ## *PLANTEAMIENTO DEL PROBLEMA*
 
