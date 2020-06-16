@@ -31,7 +31,8 @@ En esta forma de resolver teoricamente un circuito , nos dice que para todo nodo
 Estas corrientes se las escribe en funcion del voltaje , utilizando una vez mas la ley de Omh.
 
 Donde se cumple que la sumatoria de todas las corrientes que entran en un nodo son igual a las que salen.
-
+![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Diagrama%202.png)
+Figura 1.
 Para que pueda se posible todos los nodos deben tener conductancia, este método produce un sistema de ecuaciones que puede resolverse de varias formas , tales como; Matrices,Crammer,Suma y resta, Sustitución, etc..
 
 ¿Que es un nodo?
@@ -42,13 +43,13 @@ Un nodo es un punto de intersección , conexió o unión de varios elementos que
 ¿Como se resuelve?
 
 Se sigue los siguientes pasos:
-
+![alt text] 
 Paso 1. Identificar los nodos y asignarles tensiones. Seleccionar uno de ellos como nodo de referencia y asignarle tensión cero.
 
 
 Paso 2. Establecer una corriente por cada elemento del circuito. Polarizar las resistencias según el criterio:
-
-
+![alt text] 
+Figura 2.
 Paso 3. Aplicar KCL a cada nodo.
 
 
