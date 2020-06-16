@@ -43,7 +43,7 @@ Un nodo es un punto de intersección , conexió o unión de varios elementos que
 ¿Como se resuelve?
 
 Se sigue los siguientes pasos:
-![alt text] 
+![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Diagrama%204.png)
 Paso 1. Identificar los nodos y asignarles tensiones. Seleccionar uno de ellos como nodo de referencia y asignarle tensión cero.
 
 
