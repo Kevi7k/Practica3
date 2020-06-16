@@ -1,4 +1,5 @@
 # Practica#3
+*ANALISIS DE NODOS* 
 
 ## *PLANTEAMIENTO DEL PROBLEMA*
 
@@ -14,12 +15,13 @@
 | Cantidad | Material de Equipo |
 | ------------- | ------------- |
 | 1  | Fuente de voltaje de C.D |
-| 2  | Multímetros digitales |
-|  1 | Resistor de 1k  |
-|  2 | Resistores de 2,2K  |
-| 1 | Resistor de 1,8k  |
+| 1  | Multímetros digitales |
+|  1 | Resistor de 1,8k  |
+|  1 | Resistores de 470  |
+| 1 | Resistor de 1,5k  |
 | 1  | Resistor de 3,9k  |
-| 1  | Protoboard          |
+|  1  | Resistor    2,2k  |
+| 1  | Protoboard      |
 
 ## *MARCO TEÓRICO*
 
