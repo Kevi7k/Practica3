@@ -126,16 +126,18 @@ Fig.6. Circuito Simulado en TinkerCAD
 
 Utilizamos principalmente laley de Ohm, conociendo que su fórmula es I=V/R
 
-donde: (
+donde: 
+
        Intensidad=Amperio (A)
 
        Voltaje=Voltio (V)
 
        Resistencia= Ohmio (omega)
 
-Una vez obtenido este modelo matemático podemos afirmar que se cumple la siguiente ley:
+Una vez obtenido este modelo matemático podemos afirmar que se cumple la siguiente ley
 
 V1+V2+V3+V4+...Vn=0
+
 
 Esta ecuación se cumple siempre y cuando sea de solamente una malla, es decir la sumatoria de voltajes dentro de una malla es igual a cero, afirmando eso se cumple otra ley que nos habla sobres las corrientes, donde las sumatoria de corrientes de entrada es igual a la sumatoria de corrientes de salida:
 
