@@ -101,20 +101,20 @@ Compare los valores de la tabla y realice sus conclusiones.
 ## *TABULACIÓN DE DATOS*
 |NODO| Resultados Analíticos |Resultados Experimentales|
 | ------------- | ------------- | ------------- |
-| 1  | 2,9538 | 999 |
-| 2  | 4,515 | 999 |
-|  3 | 2,9538 | 999 |
-|  4 | 4,515 | 999 |
+| 1  | 2,9538 | 2,82 |
+| 2  | 4,515 | 4,80 |
+|  3 | 2,9538 | 2,82 |
+|  4 | 4,515 | 4,80 |
 
 
 ## *ANÁLISIS DE RESULTADOS*
 En general los resultados de las mediciones nunca serán exactas, a pesar del máximo cuidado que se tenga en el momento de realizar cada una de ellas, no es posible expresar el reultado como exacto, es por esto que a continuación se ralizará una tabla donde se muestre  el error relativo de cada valor obtenido:
 |NODO| Resultados Analíticos |Resultados Experimentales|%Error|
 | ------------- | ------------- | ------------- | ------------- |
-| 1  | 2,9538 | 999 | 999% |
-| 2  | 4,515| 999 | 999% |
-|  3 | 2,9538 | 999 | 999% |
-|  4 | 4,515  | 999 | 999% |
+| 1  | 2,9538 | 2,82 | 4,5% |
+| 2  | 4,515| 4,80 | 5,93% |
+|  3 | 2,9538 | 2,82 | 4,5% |
+|  4 | 4,515  |4,80 | 5,93% |
 
 ## *DIAGRAMA*
 
