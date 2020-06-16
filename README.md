@@ -78,7 +78,7 @@ Nota: El análisis por nodos es más conveniente cuando hay fuentes de corriente
 ## *PROCEDIMIENTO*
 Implemente el siguiente circuito que se muestra en la figura:
 
-
+![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Diagrama1.png)
 
 ## *TABULACIÓN DE DATOS*
 
