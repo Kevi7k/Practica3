@@ -27,13 +27,6 @@
 
 ## *PROCEDIMIENTO*
 
-1.	Construir en el Protoboard el circuito de la figura 3.
-
-![CircuitoPropuesto](https://github.com/Kevi7k/Practica1./blob/master/Img/Diagrama%203.png)
-
-Fig. 3. Circuito resistivo mixto
-
-2.	Medir y registrar en la tabla la caída de voltaje y corriente en cada uno de los elementos del circuito.
 
 ## *TABULACIÓN DE DATOS*
 
