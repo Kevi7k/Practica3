@@ -48,7 +48,7 @@ Paso 1. Identificar los nodos y asignarles tensiones. Seleccionar uno de ellos c
 
 
 Paso 2. Establecer una corriente por cada elemento del circuito. Polarizar las resistencias según el criterio:
-![alt text] 
+![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Diagrama%203.png)
 Figura 2.
 Paso 3. Aplicar KCL a cada nodo.
 
