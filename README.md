@@ -1,9 +1,8 @@
 # Práctica 3
-*ANALISIS DE NODOS* 
+*ANÁLISIS DE NODOS* 
 
 ## *PLANTEAMIENTO DEL PROBLEMA*
-
-
+Para realizar cualquier tipo de cálculo en un circuito es necesario conocer los voltajes y corrientes en cada uno de los elementos, para esto recurrimos a las Leyes de voltaje de Kirchhoff, que nos brinda diferentes métodos de análisis, entre ellos está el análisis de nodos. Pero, para comprender esto primero tendremos que comprobarlo para conocer que tan eficiente resulta ser dentro de nuestros cáclulos requeridos.
 
 ## *OBJETIVO:*
 Comprobar de manera empírica el análisis de nodos.
@@ -99,7 +98,12 @@ Compare los valores de la tabla y realice sus conclusiones.
 
 
 ## *TABULACIÓN DE DATOS*
-
+|NODO| Resultados Analíticos |Resultados Experimentales|
+| ------------- | ------------- | ------------- |
+| 1  | 999 | 999 |
+| 2  | 999 | 999 |
+|  3 | 999  | 999 |
+|  4 | 999  | 999 |
 
 
 ## *ANÁLISIS DE RESULTADOS*
@@ -117,6 +121,7 @@ Compare los valores de la tabla y realice sus conclusiones.
 
 
 ## *CONCLUSIONES*
+- El método de análisis de nodos resulta ser muy práctico dentro  de los cálculos de circuitos eléctricos, como se ha podido evidenciar es un herramienta que nos permite aplicar de manera correcta las leyes de Kirchhoff, de modo organizado y con un número muy reducido de ecuaciones.
 
 
 ## *RECOMENDACIONES*
