@@ -118,6 +118,7 @@ En general los resultados de las mediciones nunca ser√°n exactas, a pesar del m√
 
 ## *DIAGRAMA*
 
+![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Diagrama%205.png)
 
 ## *ECUACIONES*
 
