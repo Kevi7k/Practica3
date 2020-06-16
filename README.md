@@ -156,8 +156,13 @@ I+I1+I2+I3+......In=0
 
 
 ## *RECOMENDACIONES*
+-Es necesario asegurar los valores que asignamos tanto a las fuentes de voltaje como a las resistencias, ya que se suele cometer errores con las unidades de medida, de igual forma que la conexión esté bien hecha para que las mediciones sean lo más exactas posibles.
 
 
+-LLevar claro el concepto de esta ley de nodos, para realizar de manera correcta la practica.
+
+
+-Tomar en cuenta sobre el peligro que puede ocasionar estos voltajes y la mala utilización de las resistencias.
 ## *CRONOGRAMA*
 
 
