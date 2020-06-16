@@ -103,43 +103,45 @@ Compare los valores de la tabla y realice sus conclusiones.
 | ------------- | ------------- | ------------- |
 | 1  | 2,9538 | 2,82 |
 | 2  | 4,515 | 4,80 |
-|  3 | 2,9538 | 2,82 |
-|  4 | 4,515 | 4,80 |
 
 
 ## *ANÁLISIS DE RESULTADOS*
 En general los resultados de las mediciones nunca serán exactas, a pesar del máximo cuidado que se tenga en el momento de realizar cada una de ellas, no es posible expresar el reultado como exacto, es por esto que a continuación se ralizará una tabla donde se muestre  el error relativo de cada valor obtenido:
 |NODO| Resultados Analíticos |Resultados Experimentales|%Error|
 | ------------- | ------------- | ------------- | ------------- |
-| 1  | 2,9538 | 2,82 | 4,5% |
-| 2  | 4,515| 4,80 | 5,93% |
-|  3 | 2,9538 | 2,82 | 4,5% |
-|  4 | 4,515  |4,80 | 5,93% |
+| 1  | 2,9538 | 2,82 | 4,53% |
+| 2  | 4,515| 4,80 | 6.31% |
 
 ## *DIAGRAMA*
 
 ![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Diagrama%205.png)
 
+Fig.5. Circuito Simulado en DCAClab
+
+![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Circuito_Simulado.jpg)
+
+Fig.6. Circuito Simulado en TinkerCAD
+
 ## *ECUACIONES*
 
-Su fórmula es I=V/R
+Utilizamos principalmente laley de Ohm, conociendo que su fórmula es I=V/R
 
-Intensidad=Amperio (A
+donde: Intensidad=Amperio (A
 
-Voltaje=Voltio (V)
+       Voltaje=Voltio (V)
 
-Resistencia= Ohmio (omega)
+       Resistencia= Ohmio (omega)
 
 Una vez obtenido este modelo matemático podemos afirmar que se cumple la siguiente ley:
 
 V1+V2+V3+V4+...Vn=0
 
-Esta ecuación se cumple siempre y cuando sea de solamente una malla, es decir la sumatoria de voltajes dentro de una malla es igual a cero, afirmando eso se cumple otra ley que nos habla sobres las corrientes:
+Esta ecuación se cumple siempre y cuando sea de solamente una malla, es decir la sumatoria de voltajes dentro de una malla es igual a cero, afirmando eso se cumple otra ley que nos habla sobres las corrientes, donde las sumatoria de corrientes de entrada es igual a la sumatoria de corrientes de salida:
 
 I(salida)=I(entrada)
 
 
-Adicionalmente , tomar en cuenta que las intensidades la medimos con la diferencia de potencial que en un caso estandar , tendremos:
+Adicionalmente , tomar en cuenta que las intensidades la medimos con la diferencia de potencial que en un caso estándar , tendremos:
 
 
 (Va-Vb)/(Resistencia)=I
@@ -172,3 +174,7 @@ I+I1+I2+I3+......In=0
 Charles K. Alexander, Matthew N. O. Sadiku, Fundamentos de circuitos eléctricos. Tercera edición. México: McGrawHill, 2004.
 
 ## *ANEXOS*
+
+![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Circuito_Simulado_Medicion.jpg)
+
+Fig. 7. Medicones de voltaje en el circuito
