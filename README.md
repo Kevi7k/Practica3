@@ -81,21 +81,21 @@ Nota: El análisis por nodos es más conveniente cuando hay fuentes de corriente
 
 
 ## *PROCEDIMIENTO*
-Implemente el siguiente circuito que se muestra en la figura:
+1. Implemente el siguiente circuito que se muestra en la figura:
 
 ![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Diagrama1.png)
 
 Fig.4. Circuito para el análisis de nodos
 
- .Mida cada uno de los voltajes de nodo y anote los resultados en la tabla
+2. Mida cada uno de los voltajes de nodo y anote los resultados en la tabla
  
  
- Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito
+3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito
 de la figura , obteniendo los valores de los voltajes de nodo. Anote los resultados en
 la tabla.
 
 
-Compare los valores de la tabla y realice sus conclusiones.
+4. Compare los valores de la tabla y realice sus conclusiones.
 
 
 ## *TABULACIÓN DE DATOS*
@@ -126,7 +126,8 @@ Fig.6. Circuito Simulado en TinkerCAD
 
 Utilizamos principalmente laley de Ohm, conociendo que su fórmula es I=V/R
 
-donde: Intensidad=Amperio (A
+donde: (
+       Intensidad=Amperio (A)
 
        Voltaje=Voltio (V)
 
@@ -161,7 +162,7 @@ I+I1+I2+I3+......In=0
 - Es necesario asegurar los valores que asignamos tanto a las fuentes de voltaje como a las resistencias, ya que se suele cometer errores con las unidades de medida, de igual forma que la conexión esté bien hecha para que las mediciones sean lo más exactas posibles.
 
 
-- LLevar claro el concepto de esta ley de nodos, para realizar de manera correcta la practica.
+- LLevar claro el concepto de esta ley de nodos, para realizar de manera correcta la práctica.
 
 
 - Tomar en cuenta sobre el peligro que puede ocasionar estos voltajes y la mala utilización de las resistencias.
