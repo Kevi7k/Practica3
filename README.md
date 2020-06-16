@@ -122,7 +122,30 @@ En general los resultados de las mediciones nunca serán exactas, a pesar del m�
 
 ## *ECUACIONES*
 
+Su fórmula es I=V/R
 
+Intensidad=Amperio (A
+
+Voltaje=Voltio (V)
+
+Resistencia= Ohmio (omega)
+
+Una vez obtenido este modelo matemático podemos afirmar que se cumple la siguiente ley:
+
+V1+V2+V3+V4+...Vn=0
+
+Esta ecuación se cumple siempre y cuando sea de solamente una malla, es decir la sumatoria de voltajes dentro de una malla es igual a cero, afirmando eso se cumple otra ley que nos habla sobres las corrientes:
+
+I(salida)=I(entrada)
+
+
+Adicionalmente , tomar en cuenta que las intensidades la medimos con la diferencia de potencial que en un caso estandar , tendremos:
+
+
+(Va-Vb)/(Resistencia)=I
+
+
+I+I1+I2+I3+......In=0
 
 ## *EXPLICACIÓN DEL CIRCUITO*
 
