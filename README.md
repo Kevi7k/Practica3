@@ -102,9 +102,9 @@ Compare los valores de la tabla y realice sus conclusiones.
 |NODO| Resultados Analíticos |Resultados Experimentales|
 | ------------- | ------------- | ------------- |
 | 1  | 2,9538 | 999 |
-| 2  | 3,582 | 999 |
+| 2  | 4,515 | 999 |
 |  3 | 2,9538 | 999 |
-|  4 | 3,582 | 999 |
+|  4 | 4,515 | 999 |
 
 
 ## *ANÁLISIS DE RESULTADOS*
@@ -112,9 +112,9 @@ En general los resultados de las mediciones nunca serán exactas, a pesar del m�
 |NODO| Resultados Analíticos |Resultados Experimentales|%Error|
 | ------------- | ------------- | ------------- | ------------- |
 | 1  | 2,9538 | 999 | 999% |
-| 2  | 3,582 | 999 | 999% |
+| 2  | 4,515| 999 | 999% |
 |  3 | 2,9538 | 999 | 999% |
-|  4 | 3,582  | 999 | 999% |
+|  4 | 4,515  | 999 | 999% |
 
 ## *DIAGRAMA*
 
