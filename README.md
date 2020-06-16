@@ -86,6 +86,18 @@ Implemente el siguiente circuito que se muestra en la figura:
 
 ![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Diagrama1.png)
 
+
+ .Mida cada uno de los voltajes de nodo y anote los resultados en la tabla
+ 
+ 
+ Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito
+de la figura , obteniendo los valores de los voltajes de nodo. Anote los resultados en
+la tabla.
+
+
+Compare los valores de la tabla y realice sus conclusiones.
+
+
 ## *TABULACIÓN DE DATOS*
 
 
