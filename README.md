@@ -1,4 +1,4 @@
-# Practica#3
+# Práctica 3
 *ANALISIS DE NODOS* 
 
 ## *PLANTEAMIENTO DEL PROBLEMA*
@@ -34,8 +34,6 @@ Donde se cumple que la sumatoria de todas las corrientes que entran en un nodo s
 
 
 ![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Diagrama%202.png)
-
-
 Figura 1.
 
 
@@ -52,8 +50,6 @@ Se sigue los siguientes pasos:
 
 
 ![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Diagrama%204.png)
-
-
 Figura 2.
 
 
@@ -64,8 +60,6 @@ Paso 2. Establecer una corriente por cada elemento del circuito. Polarizar las r
 
 
 ![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Diagrama%203.png)
-
-
 Figura 3
 
 
