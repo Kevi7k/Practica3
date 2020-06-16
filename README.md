@@ -5,7 +5,7 @@
 Para realizar cualquier tipo de cálculo en un circuito es necesario conocer los voltajes y corrientes en cada uno de los elementos, para esto recurrimos a las Leyes de voltaje de Kirchhoff, que nos brinda diferentes métodos de análisis, entre ellos está el análisis de nodos. Pero, para comprender esto primero tendremos que comprobarlo para conocer que tan eficiente resulta ser dentro de nuestros cálculos requeridos.
 
 ## *OBJETIVO:*
-Comprobar de manera empírica el análisis de nodos.
+Demostrar experimentalmente al análisis de nodos  a través de las leyes de Kirchhoff para comprobar la efectividad de este método.
 
 
 ## *LISTA DE MATERIALES:*
@@ -35,7 +35,7 @@ Donde se cumple que la sumatoria de todas las corrientes que entran en un nodo s
 ![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Diagrama%202.png)
 
 
-Figura 1.
+Fig. 1. Corrientes de enetrada y salida en un nodo
 
 
 Para que pueda se posible todos los nodos deben tener conductancia, este método produce un sistema de ecuaciones que puede resolverse de varias formas , tales como; Matrices,Crammer,Suma y resta, Sustitución, etc..
@@ -53,7 +53,7 @@ Se sigue los siguientes pasos:
 ![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Diagrama%204.png)
 
 
-Figura 2.
+Fig. 2. Identificación de nodos en un circuito
 
 
 Paso 1. Identificar los nodos y asignarles tensiones. Seleccionar uno de ellos como nodo de referencia y asignarle tensión cero.
@@ -65,7 +65,7 @@ Paso 2. Establecer una corriente por cada elemento del circuito. Polarizar las r
 ![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Diagrama%203.png)
 
 
-Figura 3
+Fig. 3. Corriente en una resistencia
 
 
 Paso 3. Aplicar KCL a cada nodo.
@@ -85,6 +85,7 @@ Implemente el siguiente circuito que se muestra en la figura:
 
 ![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Diagrama1.png)
 
+Fig.4. Circuito para el análisis de nodos
 
  .Mida cada uno de los voltajes de nodo y anote los resultados en la tabla
  
