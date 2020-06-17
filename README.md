@@ -181,3 +181,8 @@ Charles K. Alexander, Matthew N. O. Sadiku, Fundamentos de circuitos eléctricos
 ![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Circuito_Simulado_Medicion.jpg)
 
 Fig. 7. Medicones de voltaje en el circuito
+
+
+![alt text](https://github.com/Kevi7k/Practica3/blob/master/Im%C3%A1genes/Resolucion_de_ejercicio.jpg)
+
+Fig. 8. Resolución del ejercicio
