@@ -154,6 +154,9 @@ I+I1+I2+I3+......In=0
 
 ## *EXPLICACIÓN DEL CIRCUITO*
 
+En nuestro circuito podemos observar que tenemos elementos activos y pasivos, como lo son las fuentes de voltaje, y las resistencias. Consta de una fuente de voltaje de 12 voltios y otra de 8 voltios, y de 5 resistencias, de 1800, 470, 2200, 3900 y 1500 ohmios. Nuestra corriente saldrá de nuestra primera fuente de voltaje, llegará a nuestra primera resistencia, que será de 1800 ohmio. Al salir de dicha resistencia existirá una división de corriente en dos resistencias, que serán a nuestras resistencias de 470 ohmios, que se conectara al negativo de nuestras fuentes, y nuestra resistencia de 2200 ohmios. De nuestra resistencia de 2200 ohmios tenemos una división de corriente en dos resistencias, que serán nuestras resistencias de 3900 ohmios, que se unirá a nuestro polo negativo de las fuentes, y la resistencia de 1500 ohmios que estará conectada al polo positivo de nuestra segunda fuente, y el polo negativo conectado al polo negativo de nuestra primera fuente, cerrando así nuestro circuito y permitiendo el paso de corriente en nuestro circuito. 
+
+Para realizar nuestra medición de voltaje en cada uno de nuestros nodos, tenemos que conectar el multímetro a nuestro nodo, y el negativo de nuestro multímetro, a tierra, ya que sabemos que el voltaje en tierra es cero. 
 
 
 ## *CONCLUSIONES*
