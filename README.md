@@ -157,14 +157,16 @@ I+I1+I2+I3+......In=0
 
 
 ## *CONCLUSIONES*
-- El método de análisis de nodos resulta ser muy práctico dentro  de los cálculos de circuitos eléctricos, como se ha podido evidenciar es un herramienta que nos permite aplicar de manera correcta las leyes de Kirchhoff, de modo organizado y con un número muy reducido de ecuaciones.
+- El método de análisis de nodos resultó ser muy práctico dentro  de los cálculos de circuitos eléctricos, como se ha podido evidenciar es un herramienta que nos permite aplicar de manera correcta las leyes de Kirchhoff, de modo organizado y con un número muy reducido de ecuaciones.
+
+- Al analizar los resultados obtenidos se ha encontrado que existieron errores dentro de las mediciones de voltaje, pero son sumamente pequeños, los valores de su error relativo porcentual  son de 0.02% y 0.03% respectivamente, al ser calores insignificante podemos considerar que esun error aceptable. 
 
 
 ## *RECOMENDACIONES*
 - Es necesario asegurar los valores que asignamos tanto a las fuentes de voltaje como a las resistencias, ya que se suele cometer errores con las unidades de medida, de igual forma que la conexión esté bien hecha para que las mediciones sean lo más exactas posibles.
 
 
-- LLevar claro el concepto de esta ley de nodos, para realizar de manera correcta la práctica.
+- Llevar claro el concepto de esta ley de nodos, para realizar de manera correcta la práctica.
 
 
 - Tomar en cuenta sobre el peligro que puede ocasionar estos voltajes y la mala utilización de las resistencias.
