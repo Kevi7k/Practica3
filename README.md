@@ -101,16 +101,16 @@ la tabla.
 ## *TABULACIÓN DE DATOS*
 |NODO| Resultados Analíticos |Resultados Experimentales|
 | ------------- | ------------- | ------------- |
-| 1  | 2,9538 | 2,82 |
-| 2  | 4,515 | 4,80 |
+| 1  | 2,8194 | 2,82 |
+| 2  | 4,8016 | 4,80 |
 
 
 ## *ANÁLISIS DE RESULTADOS*
 En general los resultados de las mediciones nunca serán exactas, a pesar del máximo cuidado que se tenga en el momento de realizar cada una de ellas, no es posible expresar el reultado como exacto, es por esto que a continuación se ralizará una tabla donde se muestre  el error relativo de cada valor obtenido:
 |NODO| Resultados Analíticos |Resultados Experimentales|%Error|
 | ------------- | ------------- | ------------- | ------------- |
-| 1  | 2,9538 | 2,82 | 4,53% |
-| 2  | 4,515| 4,80 | 6.31% |
+| 1  |  2,8194 | 2,82 | 0,02%|
+| 2  | 4,8016| 4,80 | 0,033% |
 
 ## *DIAGRAMA*
 
