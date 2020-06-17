@@ -170,7 +170,7 @@ I+I1+I2+I3+......In=0
 - Tomar en cuenta sobre el peligro que puede ocasionar estos voltajes y la mala utilización de las resistencias.
 ## *CRONOGRAMA*
 
-
+![alt text](https://github.com/Kevi7k/Practica3/blob/master/Cronograma/Cronograma_Informe3.jpg)
 
 ## *BIBLIOGRAFÍA*
 
